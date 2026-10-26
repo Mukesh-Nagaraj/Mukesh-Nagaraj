@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Mukesh! 👋
 
-<!--
-**Mukesh-Nagaraj/Mukesh-Nagaraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science student.
 
-Here are some ideas to get you started:
+🌱 I'm currently learning Java, Data Structures and Algorithms (DSA), and Web Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I'm interested in Artificial Intelligence and Machine Learning.
+
+🚀 I'm working on improving my programming skills by building projects.
+
+🎯 My goal is to become a skilled software developer.
+
+### 🛠️ Technologies I'm Learning
+- Java
+- HTML
+- CSS
+- JavaScript
+- SQL
+
+### 📫 Connect With Me
+- GitHub: [My GitHub Profile](https://github.com/Mukesh-Nagaraj)
